@@ -15,8 +15,7 @@
 
    IV. Open a browser. Go to localhost:8080 and click on the manager app button. 
 
-   V. Deploy the war file from the PROJECT_DIR\targer
-
+   V. Deploy the war file from the PROJECT_DIR\target
 }
 
 6. Go to localhost:8080/GarageMaster
