@@ -18,5 +18,6 @@
    V. Deploy the war file from the PROJECT_DIR\targer
 
 }
+
 6. Go to localhost:8080/GarageMaster
-7. Use the application.
+8. Use the application.
